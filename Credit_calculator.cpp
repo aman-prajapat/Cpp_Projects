@@ -29,6 +29,7 @@ public:
 
 void applicant::get_data()
 {
+    //new branch named with test
     cin.clear();
     cin.ignore(1000, '\n');
 cout<<"\n----------------------------------------- \n";
