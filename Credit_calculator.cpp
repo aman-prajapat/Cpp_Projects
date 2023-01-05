@@ -19,8 +19,7 @@ class applicant
     int monthly_salary;
 
 public:
-    applicant()
-    {
+    applicant(){
         score = 0;
     }
     void get_data();
@@ -57,8 +56,8 @@ cout<<"\n----------------------------------------- \n";
     cin >> spouse_working;
     cout << "Dependent Parent(y or n): ";
     cin >> dependent_parents;
-cout<<"\n----------------------------------------- \n";
-cout<<"\n----------------------------------------- \n";
+cout<<"\n-------------------------------------------------- \n";
+cout<<"\n-------------------------------------------------- \n";
 }
 
 void applicant::calc_liability()
