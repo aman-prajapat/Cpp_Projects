@@ -1,0 +1,25 @@
+			        Purchase Order : 1
+			-------------------------------
+
+Requisition : 1				Issue Date : Wed Jan 04 18:44:01 2023
+
+
+Supplier : SKS Inc.
+
+Delivery Date: 12/12/2001
+--------------------------------------------------------------------------------
+                            Line Items
+--------------------------------------------------------------------------------
+Item Code				Quantity					Price				Total
+	4						56						 20				     1120
+
+--------------------------------------------------------------------------------
+            **Standard Terms and Conditions**
+1. PO should be acknowledged within 7 days of date of issue.
+2. PO will be null and empty if goods are not deliverd by delivery date.
+3. Defective goods willl be returned back to the supplier.
+4. Invoice can only be raised after 20 days of date of goods receipt.
+5. Damage during transit (if any) will be borne by the Supplier.
+
+
+Signature:								Total:________
